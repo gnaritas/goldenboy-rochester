@@ -1,0 +1,3 @@
+{
+ "render_sweep": "2026-11-25 PASS: render_sweep.py live deploy 10 pages x {1280,390}: 20/20 DOM gates overflow_px=0 everywhere, header_visible all, map iframe 1 on /visit both vp, console errors only the intentional 404 resource line; native vision sign-off: index_desktop NO DEFECTS, contact_desktop 2 low-res claims FALSE, 1 real defect (cinfo heading offset vs form card inner heading) fixed with CSS padding-top 34px, redeploy fac5d767, resweep PASS + native ALIGNED NO DEFECTS; og.png 1200x630 native vision CLEAN (sunburst motif judged intentional, all text legible, no clipping); OpenRouter 20-shot battery verdicts adjudicated as downscale leads (subpixel claims contradicted by DOM gates); shots in shots/ durable mirror"
+}
