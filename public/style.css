@@ -165,6 +165,7 @@ form.cform p{margin-bottom:16px}
 form.cform label{display:block;font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:6px}
 form.cform input,form.cform textarea{width:100%;background:#1a1009;border:1px solid var(--chrome);border-radius:8px;color:var(--cream);font:inherit;padding:12px 14px}
 form.cform input:focus,form.cform textarea:focus{outline:none;border-color:var(--gold);box-shadow:0 0 0 3px rgba(229,168,60,.22)}
+section.cinfo{padding-top:34px}/* aligns 'Direct lines' heading with the form card's inner heading line */
 section.cinfo h2{font-size:26px;margin-bottom:14px}
 p.clabel{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);font-weight:700;margin:22px 0 6px}
 p.cbig{font-size:18px;color:var(--cream)}
