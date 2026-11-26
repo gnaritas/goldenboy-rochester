@@ -20,7 +20,7 @@ Template v2 vitrine (10 files: index, cocktails, kitchen, nights, our-story, vis
 - Vision sign-off: OG image clean (all texts legible, sunburst motif judged intentional); index_desktop NO DEFECTS; contact_desktop: 2 low-res claims FALSE, 1 REAL defect (info-column heading offset vs form card inner heading line) → fixed via cinfo padding-top, redeployed, re-sweep PASS, re-vision ALIGNED + NO DEFECTS. OpenRouter batch battery on the sweep shots produced leads adjudicated against native full-res reads — per-shot verdicts recorded in shots/vision-results.json; no unresolved lead.
 
 ## Deploy topology
-- Repo: `github.com/gnaritas/goldenboy-rochester` (public, no secrets). HEAD d1970a1.
+- Repo: `github.com/gnaritas/goldenboy-rochester` (public, no secrets). HEAD 35ebc9f (docs/shots commit atop d1970a1 fix).
 - Railway: service `goldenboy-rochester` id `f8036504-9bfd-4e6a-a66d-0681c6c3e22e` CO-HOSTED inside dead-shell project **the-plain-bar** `604a72a9-09eb-4169-920d-e64619651640` (account project cap; sibling capitol-locksmith-demo service shares the project — teardown of this site = GraphQL serviceDelete ONLY, never project delete).
 - Domain: goldenboy-rochester-demo.up.railway.app; canonical/og:url/sitemap/robots pin the live -demo host (production token re-pinned, _verify sitemap-vs-origin tripwire clean).
 - Env: BREVO_API_KEY set from secrets via xkeysib-onward extraction.
