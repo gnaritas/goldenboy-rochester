@@ -1,0 +1,13 @@
+{
+  "name": "goldenboy-rochester",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Goldenboy - bar-forward cocktail bar + late-night kitchen, 650 Park Ave, Rochester NY. Static template-v2 site (8 pages + 404/thanks), zero JS.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
